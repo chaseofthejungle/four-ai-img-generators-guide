@@ -11,10 +11,24 @@ TODO: A brief overview of four different AI image generators.
 
 ## 1. <a name="fourpop">Four Popular AI Image Generators: Comparison and Contrast</a>
 
+| Characteristic | DALL·E | FluxAI | Midjourney | Stable Diffusion |
+| :-----: | :-----: | :-----: | :-----: | :-----: |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+
 <hr />
 
 ## 2. <a name="supplemental">Supplemental Resources</a>
 
 * *[Official FluxAI Website](https://www.flux.ai/p)*
-* *[Official OpenAI DALL-E Website](https://openai.com/index/dall-e/)*
+* *[Official OpenAI DALL·E Website](https://openai.com/index/dall-e/)*
 * *[Official Midjourney Website](https://www.midjourney.com/home)*
