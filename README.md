@@ -15,4 +15,6 @@ TODO: A brief overview of four different AI image generators.
 
 ## 2. <a name="supplemental">Supplemental Resources</a>
 
-<hr />
+* *[Official FluxAI Website](https://www.flux.ai/p)*
+* *[Official OpenAI DALL-E Website](https://openai.com/index/dall-e/)*
+* *[Official Midjourney Website](https://www.midjourney.com/home)*
