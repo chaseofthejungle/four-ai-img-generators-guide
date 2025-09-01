@@ -13,17 +13,16 @@ TODO: A brief overview of four different AI image generators.
 
 | Characteristic | DALL·E | FluxAI | Midjourney | Stable Diffusion |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
+| Common Use Case | | | |
+| Customizability | | | |
+| Learning Curve | | | |
+| Maximum Image Resolution | | | |
+| Open-Source Status | | | |
+| Parameter Size | | | |
+| Picture Quality | | | |
+| Pricing | | | |
+| Processing Speed | | | |
+| Prompt Strictness | | | |
 
 <hr />
 
