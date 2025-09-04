@@ -17,10 +17,10 @@ TODO: A brief overview of four different AI image generators.
 | Customizability | | | |
 | Learning Curve | | | |
 | Maximum Image Resolution | | | |
-| Open-Source Status | | | |
+| Open-Source | No | Yes | No | Yes |
 | Parameter Size | | | |
 | Picture Quality | | | |
-| Pricing | | | |
+| Pricing | $0 (unless high volume or advanced options) | Sometimes $0 (depending on version and if student user) | Varies by Subscription Plan | $0 |
 | Processing Speed | | | |
 | Prompt Strictness | | | |
 
