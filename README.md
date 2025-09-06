@@ -15,7 +15,7 @@ TODO: A brief overview of four different AI image generators.
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 | Common Use Case | | | |
 | Customizability | | | |
-| Learning Curve | | | |
+| Learning Curve | Light/Easier than Previous Versions | Steep Learning Curve if Optiziming Customizations | Easy for Beginners | Steeper for Beginners than Many Other Platforms |
 | Maximum Image Resolution | | | |
 | Open-Source | No | Yes | No | Yes |
 | Parameter Size | | | |
